@@ -1,2 +1,2 @@
-# Minecraft
-this is a simple minecraft recreation i made :).
+# A Minecraft Recreation
+play it for urself no spoilers ;)
